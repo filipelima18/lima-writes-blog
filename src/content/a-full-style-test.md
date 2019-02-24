@@ -1,18 +1,16 @@
 ---
 layout: post
-title: B Full and Comprehensive Style Test
-image: img/testimg-cover.jpg
+title: Pre-launch - Come back later!
+image: img/pre-launch.jpg
 author: Ghost
-date: 2019-01-30T07:03:47.149Z
+date: 2019-02-23T07:03:47.149Z
 tags: 
   - Things
 ---
 
-Amamamamamamammama
+I could just have this on staging, but I'm insane so this unfinished business is in production. Come back later?
 
 ---
-
-# Heading 1
 
 ## Heading 2
 
