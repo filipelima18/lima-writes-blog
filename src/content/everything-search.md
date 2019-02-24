@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Everything Search"
-author: Ghost
+author: Lima
 tags: ["Speeches"]
 image: img/demo4.jpg
 date: "2018-12-20T15:11:55.000Z"

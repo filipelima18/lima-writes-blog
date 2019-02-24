@@ -2,7 +2,7 @@
 layout: post
 title: Pre-launch - Come back later!
 image: img/pre-launch.jpg
-author: Ghost
+author: Lima
 date: 2019-02-23T07:03:47.149Z
 tags: 
   - Things
